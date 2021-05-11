@@ -1,0 +1,76 @@
+.header {
+  margin: 12px;
+  margin-left: 0;
+}
+.brief-info {
+  border: 1px solid gray;
+  width: 290px;
+  padding: 10px;
+  height: 410px;
+  background-color: rgba(90, 90, 90, 0.116);
+  float: right;
+}
+.brief-header {
+  background-color: #cfe3ff;
+  font-weight: 900;
+  font-size: 18px;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 3px;
+}
+.flag {
+  margin-left: 12px;
+}
+.gerb {
+  margin-left: 12px;
+  position: relative;
+  top: 6px;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.brief-info div {
+  height: 20px;
+}
+
+.ramka-header {
+  text-align: center;
+  font-weight: 700;
+  font-family: Arial;
+  font-size: 14px;
+}
+.links {
+  background-color: rgba(90, 90, 90, 0.116);
+  width: 400px;
+  float: left;
+  border: 1px solid gray;
+}
+.gallery img {
+  width: 32%;
+}
+
+.first-row img {
+  width: 49%;
+}
+.first-row {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+h2 {
+  text-align: center;
+}
+.gallery {
+  border: 1px solid gray;
+  background-color: rgba(72, 211, 95, 0.589);
+  padding-left: 30px;
+}
+.main-text {
+  float: left;
+  width: 1500px;
+}
+.abc {
+  height: 460px;
+}
